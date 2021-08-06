@@ -1,3 +1,0 @@
-first feature line
-second feature line
-third feature line
