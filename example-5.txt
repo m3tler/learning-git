@@ -1,6 +1,1 @@
-First commit from the remote server
-Second commit from the remote server
-Third commit from the remote server
-First commit from the local machine
-Second commit from the local machine
-Third commit from the local machine
+
